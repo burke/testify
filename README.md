@@ -16,6 +16,12 @@ weren't intended to.
 
 Stay tuned.
 
+## TODO
+
+1. Everything
+2. Rename to avoid conflict with other, unrelated project also called
+   testify.
+
 ## Installation
 
 Don't.
