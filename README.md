@@ -1,24 +1,28 @@
 # Testify
 
-TODO: Write a gem description
+Testify is an ongoing sketch of what I think a test framework should be.
+Design goals include:
+
+* Test::Unit / Minitest syntax
+* Generic test result data structure
+* Pluggable output formatters
+* Master/worker architecture
+* Lazy reloading of master process as hard dependencies change
+
+In essence, Testify aims to replace the (test framework + guard +
+parallel hacks) set of libraries in an elegant way without monkeypatches
+everywhere to make gems higher up the stack perform in a way they
+weren't intended to.
+
+Stay tuned.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'testify'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install testify
+Don't.
 
 ## Usage
 
-TODO: Write usage instructions here
+Don't.
 
 ## Contributing
 
